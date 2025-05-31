@@ -1,0 +1,48 @@
+Mathematics
+Question: What is the derivative of the function f(x)=x2?
+A) 2x
+B) x2
+C) 2x2
+D) x
+Mathematics
+Question: What is the value of π (pi) approximately?
+A) 3.14
+B) 2.71
+C) 1.62
+D) 4.20
+Mathematics
+Question: What is the value of the square root of 144?
+A) 12
+B) 10
+C) 14
+D) 16
+Mathematics
+Question: What is the value of 2525?
+A) 8
+B) 16
+C) 32
+D) 64
+Mathematics
+Question: What is the value of 3!3! (3 factorial)?
+A) 3
+B) 6
+C) 9
+D) 12
+Mathematics
+Question: What is the value of 10×010×0?
+A) 0
+B) 10
+C) 1
+D) Undefined
+Mathematics
+Question: What is the value of 12+1421+41?
+A) 3443
+B) 1881
+C) 3883
+D) 1661
+Mathematics
+Question: What is the sum of the interior angles of a triangle?
+A) 90 degrees
+B) 180 degrees
+C) 270 degrees
+D) 360 degrees

@@ -1,0 +1,721 @@
+Mathematics
+Question: What is the derivative of the function f(x)=x2?
+A) 2x
+B) x2
+C) 2x2
+D) x
+Science
+Question: Which element has the chemical symbol 'O'?
+A) Oxygen
+B) Gold
+C) Osmium
+D) Hydrogen
+Programming
+Question: In Python, which of the following data types is immutable?
+A) List
+B) Dictionary
+C) Tuple
+D) Set
+History
+Question: Who was the first President of the United States?
+A) Thomas Jefferson
+B) Abraham Lincoln
+C) George Washington
+D) John Adams
+General Information
+Question: What is the capital city of Japan?
+A) Kyoto
+B) Osaka
+C) Tokyo
+D) Nagasaki
+Geography
+Question: Which river is the longest in the world?
+A) Amazon River
+B) Yangtze River
+C) Nile River
+D) Mississippi River
+Astronomy
+Question: Which planet is known as the Red Planet?
+A) Venus
+B) Mars
+C) Jupiter
+D) Mercury
+Computer
+Question: What does CPU stand for in the context of computing?
+A) Central Process Unit
+B) Central Processing Unit
+C) Computer Personal Unit
+D) Central Processor Unit
+Education
+Question: Which theory states that students learn more effectively when they have a meaningful personal connection to the subject matter?
+A) Constructivism
+B) Behaviorism
+C) Realism
+D) Formalism
+Culture
+Question: Which country is traditionally associated with the dance form of Flamenco?
+A) Portugal
+B) Spain
+C) Italy
+D) Brazil
+Art
+Question: Who painted the Mona Lisa?
+A) Vincent Van Gogh
+B) Pablo Picasso
+C) Leonardo da Vinci
+D) Claude Monet
+Health
+Question: Which vitamin is predominantly produced in our bodies when exposed to sunlight?
+A) Vitamin A
+B) Vitamin D
+C) Vitamin C
+D) Vitamin E
+Human Body
+Question: What is the main function of the human skeleton?
+A) To provide an anchor for muscles
+B) To protect internal organs
+C) To produce blood cells
+D) All of the above
+Mathematics
+Question: What is the value of π (pi) approximately?
+A) 3.14
+B) 2.71
+C) 1.62
+D) 4.20
+Science
+Question: What is the chemical symbol for water?
+A) O2
+B) H2O
+C) CO2
+D) H2SO4
+Programming
+Question: Which of the following is not a programming language?
+A) Java
+B) HTML
+C) Python
+D) Photoshop
+History
+Question: Who was the first man to step on the moon?
+A) Buzz Aldrin
+B) Neil Armstrong
+C) Yuri Gagarin
+D) Alan Shepard
+General Information
+Question: What is the largest ocean on Earth?
+A) Atlantic Ocean
+B) Indian Ocean
+C) Pacific Ocean
+D) Arctic Ocean
+Geography
+Question: Which country is the largest by land area?
+A) China
+B) Russia
+C) United States
+D) Canada
+Astronomy
+Question: What is the nearest star to Earth (excluding the Sun)?
+A) Proxima Centauri
+B) Alpha Centauri
+C) Sirius
+D) Betelgeuse
+Computer
+Question: What is the main purpose of an operating system?
+A) Run software applications
+B) Manage hardware resources
+C) Connect to the internet
+D) Create documents
+Education
+Question: Which educational psychologist developed the theory of multiple intelligences?
+A) Jean Piaget
+B) Howard Gardner
+C) Lev Vygotsky
+D) B.F. Skinner
+Culture
+Question: In which country did the Renaissance originate?
+A) Italy
+B) France
+C) England
+D) Spain
+Art
+Question: Who painted "Starry Night"?
+A) Vincent Van Gogh
+B) Pablo Picasso
+C) Leonardo da Vinci
+D) Claude Monet
+Health
+Question: Which organ is responsible for filtering waste from the blood?
+A) Liver
+B) Kidneys
+C) Lungs
+D) Pancreas
+Human Body
+Question: What is the largest organ in the human body?
+A) Liver
+B) Skin
+C) Brain
+D) Heart
+Mathematics
+Question: What is the value of the square root of 144?
+A) 12
+B) 10
+C) 14
+D) 16
+Science
+Question: Which gas makes up the majority of the Earth's atmosphere?
+A) Oxygen
+B) Nitrogen
+C) Carbon Dioxide
+D) Helium
+Programming
+Question: What does the acronym HTML stand for?
+A) Hyper Text Markup Language
+B) High Tech Markup Language
+C) Hyperlinks and Text Markup Language
+D) Home Tool Markup Language
+History
+Question: Who was the first female Prime Minister of the United Kingdom?
+A) Angela Merkel
+B) Margaret Thatcher
+C) Theresa May
+D) Indira Gandhi
+General Information
+Question: Who wrote the novel "To Kill a Mockingbird"?
+A) J.K. Rowling
+B) Harper Lee
+C) Mark Twain
+D) George Orwell
+Geography
+Question: Which mountain range is the longest in the world?
+A) Himalayas
+B) Alps
+C) Andes
+D) Rockies
+Astronomy
+Question: What is the name of the largest moon of Jupiter?
+A) Europa
+B) Ganymede
+C) Callisto
+D) Io
+Computer
+Question: What is a firewall used for in computer networks?
+A) Preventing unauthorized access
+B) Storing files
+C) Speeding up internet connection
+D) Sending emails
+Education
+Question: What is the term for the process of acquiring knowledge and skills through study, experience, or teaching?
+A) Learning
+B) Memorization
+C) Testing
+D) Experimentation
+Culture
+Question: Who is the author of "Romeo and Juliet"?
+A) William Shakespeare
+B) Charles Dickens
+C) Jane Austen
+D) F. Scott Fitzgerald
+Art
+Question: Which artistic movement is characterized by its use of distorted figures and vibrant colors?
+A) Cubism
+B) Impressionism
+C) Surrealism
+D) Expressionism
+Health
+Question: What is the main function of insulin in the human body?
+A) Regulating blood sugar levels
+B) Digesting food
+C) Fighting infections
+D) Building muscle
+Human Body
+Question: Which part of the human brain is responsible for coordinating movement and balance?
+A) Cerebrum
+B) Cerebellum
+C) Brainstem
+D) Thalamus
+Mathematics
+Question: What is the value of 2525?
+A) 8
+B) 16
+C) 32
+D) 64
+Science
+Question: Which of the following is not a type of simple machine?
+A) Lever
+B) Wheel and Axle
+C) Compass
+D) Pulley
+Programming
+Question: What does IDE stand for in the context of software development?
+A) Integrated Development Environment
+B) Intelligent Design Environment
+C) Interactive Development Environment
+D) Interface Design Environment
+History
+Question: Which war was fought between the North and the South regions of the United States from 1861 to 1865?
+A) World War I
+B) Civil War
+C) Revolutionary War
+D) Vietnam War
+General Information
+Question: What is the chemical symbol for gold?
+A) Ag
+B) Au
+C) Fe
+D) Pb
+Geography
+Question: Which of the following countries is not located in South America?
+A) Brazil
+B) Peru
+C) Nigeria
+D) Argentina
+Astronomy
+Question: What is the name of the closest galaxy to the Milky Way?
+A) Andromeda
+B) Orion
+C) Triangulum
+D) Pegasus
+Computer
+Question: Which of the following is not a type of computer memory?
+A) RAM
+B) ROM
+C) CPU
+D) Cache
+Education
+Question: Who is considered the father of modern psychology?
+A) Sigmund Freud
+B) Wilhelm Wundt
+C) B.F. Skinner
+D) Carl Jung
+Culture
+Question: What is the traditional dress of Japan called?
+A) Kimono
+B) Sari
+C) Hijab
+D) Hanbok
+Art
+Question: Which art movement is characterized by its focus on everyday subject matter and use of ordinary materials?
+A) Pop Art
+B) Dadaism
+C) Realism
+D) Minimalism
+Health
+Question: What is the medical term for high blood pressure?
+A) Hypotension
+B) Hypertension
+C) Tachycardia
+D) Bradycardia
+Human Body
+Question: Which organ produces insulin in the human body?
+A) Liver
+B) Pancreas
+C) Kidneys
+D) Stomach
+Mathematics
+Question: What is the value of 3!3! (3 factorial)?
+A) 3
+B) 6
+C) 9
+D) 12
+Science
+Question: What is the chemical symbol for iron?
+A) Ir
+B) Fe
+C) In
+D) Sn
+Programming
+Question: Which programming language is primarily used for developing Android applications?
+A) Java
+B) C#
+C) Python
+D) Swift
+History
+Question: Who was the first female Prime Minister of India?
+A) Sonia Gandhi
+B) Margaret Thatcher
+C) Indira Gandhi
+D) Golda Meir
+General Information
+Question: What is the chemical symbol for sodium?
+A) Na
+B) So
+C) Sa
+D) Sn
+Geography
+Question: Which of the following is not one of the Great Lakes of North America?
+A) Lake Superior
+B) Lake Michigan
+C) Lake Victoria
+D) Lake Erie
+Astronomy
+Question: What is the name of the largest moon of Saturn?
+A) Europa
+B) Titan
+C) Enceladus
+D) Ganymede
+Computer
+Question: Which of the following is a popular version control system used by developers?
+A) Git
+B) FTP
+C) SQL
+D) SVN
+Education
+Question: Who introduced the concept of the "zone of proximal development" in educational psychology?
+A) Lev Vygotsky
+B) Jean Piaget
+C) John Dewey
+D) Maria Montessori
+Culture
+Question: What is the traditional dance of Ireland called?
+A) Flamenco
+B) Hula
+C) Salsa
+D) Riverdance
+Art
+Question: Which artist is known for his paintings of melting clocks in works like "The Persistence of Memory"?
+A) Pablo Picasso
+B) Salvador Dalí
+C) Vincent van Gogh
+D) Claude Monet
+Health
+Question: Which of the following is a fat-soluble vitamin?
+A) Vitamin C
+B) Vitamin B12
+C) Vitamin D
+D) Vitamin K
+Human Body
+Question: What is the largest organ in the human body by surface area?
+A) Liver
+B) Skin
+C) Brain
+D) Heart
+Mathematics
+Question: What is the value of 10×010×0?
+A) 0
+B) 10
+C) 1
+D) Undefined
+Science
+Question: What is the smallest unit of matter?
+A) Atom
+B) Molecule
+C) Electron
+D) Neutron
+Programming
+Question: Which data structure follows the Last-In-First-Out (LIFO) principle?
+A) Queue
+B) Stack
+C) Linked List
+D) Tree
+History
+Question: Who was the longest-reigning monarch in British history?
+A) Queen Elizabeth II
+B) Queen Victoria
+C) King Henry VIII
+D) King George III
+General Information
+Question: Who developed the theory of relativity?
+A) Isaac Newton
+B) Albert Einstein
+C) Galileo Galilei
+D) Stephen Hawking
+Geography
+Question: What is the capital city of Canada?
+A) Vancouver
+B) Toronto
+C) Ottawa
+D) Montreal
+Astronomy
+Question: What is the name of the first artificial satellite launched into space?
+A) Explorer 1
+B) Sputnik 1
+C) Apollo 11
+D) Vanguard 1
+Computer
+Question: Which programming language is commonly used for web development alongside HTML and CSS?
+A) Java
+B) C++
+C) JavaScript
+D) PHP
+Education
+Question: Who is known for the theory of cognitive development stages in children?
+A) Jean Piaget
+B) Lev Vygotsky
+C) John Dewey
+D) Maria Montessori
+Culture
+Question: Which country is famous for its Carnival celebration, featuring colorful parades and costumes?
+A) Brazil
+B) Italy
+C) Spain
+D) France
+Art
+Question: Who painted the famous artwork "The Starry Night"?
+A) Vincent van Gogh
+B) Pablo Picasso
+C) Leonardo da Vinci
+D) Michelangelo
+Health
+Question: Which of the following is not a primary taste sensation?
+A) Salty
+B) Sweet
+C) Sour
+D) Crunchy
+Human Body
+Question: Which organ is responsible for regulating body temperature?
+A) Liver
+B) Kidneys
+C) Skin
+D) Heart
+Mathematics
+Question: What is the value of 12+1421+41?
+A) 3443
+B) 1881
+C) 3883
+D) 1661
+Science
+Question: What is the chemical symbol for silver?
+A) Ag
+B) Si
+C) Au
+D) Sr
+Programming
+Question: What does CSS stand for in web development?
+A) Creative Style Sheets
+B) Cascading Style Sheets
+C) Computer Style Sheets
+D) Content Style Sheets
+History
+Question: Who was the first President of the United States to be impeached by the House of Representatives?
+A) Richard Nixon
+B) Bill Clinton
+C) Andrew Johnson
+D) Donald Trump
+General Information
+Question: Who wrote the novel "1984"?
+A) George Orwell
+B) Aldous Huxley
+C) J.R.R. Tolkien
+D) H.G. Wells
+Geography
+Question: What is the largest desert in the world?
+A) Sahara Desert
+B) Gobi Desert
+C) Antarctic Desert
+D) Arabian Desert
+Astronomy
+Question: What is the name of the phenomenon where a total solar eclipse is visible as a ring of light around the moon?
+A) Lunar Eclipse
+B) Solar Corona
+C) Annular Eclipse
+D) Totality
+Computer
+Question: What is the purpose of an HTML anchor tag <a>?
+A) To create a hyperlink
+B) To insert an image
+C) To define a paragraph
+D) To format text
+Education
+Question: Who founded the concept of the "Montessori Method" of education?
+A) Maria Montessori
+B) John Dewey
+C) Jean Piaget
+D) Lev Vygotsky
+Culture
+Question: In which country did the martial art of karate originate?
+A) China
+B) Japan
+C) South Korea
+D) Thailand
+Art
+Question: Who sculpted the statue of David?
+A) Leonardo da Vinci
+B) Michelangelo
+C) Donatello
+D) Raphael
+Health
+Question: What is the medical term for the voice box?
+A) Larynx
+B) Pharynx
+C) Trachea
+D) Bronchus
+Human Body
+Question: Which part of the human brain is responsible for vision?
+A) Cerebellum
+B) Cerebrum
+C) Occipital Lobe
+D) Temporal Lobe
+Mathematics
+Question: What is the sum of the interior angles of a triangle?
+A) 90 degrees
+B) 180 degrees
+C) 270 degrees
+D) 360 degrees
+Science
+Question: What is the chemical formula for water?
+A) H2O2
+B) CO2
+C) H2O
+D) CH4
+Programming
+Question: Which of the following is not a programming paradigm?
+A) Functional Programming
+B) Imperative Programming
+C) Declarative Programming
+D) Pseudocode Programming
+History
+Question: Who was the first female Prime Minister of Pakistan?
+A) Benazir Bhutto
+B) Indira Gandhi
+C) Margaret Thatcher
+D) Golda Meir
+General Information
+Question: What is the largest mammal in the world?
+A) Blue Whale
+B) African Elephant
+C) Giraffe
+D) Hippopotamus
+Geography
+Question: What is the capital city of Australia?
+A) Sydney
+B) Melbourne
+C) Canberra
+D) Brisbane
+Astronomy
+Question: What is the name of the brightest star in the night sky?
+A) Sirius
+B) Polaris
+C) Vega
+D) Betelgeuse
+Computer
+Question: Which of the following is not a web browser?
+A) Chrome
+B) Firefox
+C) Adobe Photoshop
+D) Safari
+Education
+Question: Who developed the theory of multiple intelligences? 
+- A) Sigmund Freud 
+- B) Albert Einstein 
+- C) Howard Gardner 
+- D) Jean Piaget
+Culture
+Question: In which country did the dance style of tango originate?
+ - A) Brazil 
+- B) Argentina
+ - C) Spain
+ - D) Cuba
+Culture
+Question: Who wrote the novel "Pride and Prejudice"?
+ - A) Emily Brontë 
+- B) Charlotte Brontë 
+- C) Jane Austen 
+- D) Virginia Woolf
+Education
+Question: Who founded the first public kindergarten? 
+- A) Friedrich Fröbel 
+- B) Maria Montessori 
+- C) John Dewey 
+- D) Lev Vygotsky 
+Computer
+Question: Which of the following is not a programming language? 
+- A) Java
+ - B) HTML
+ - C) CSS
+ - D) SQL
+Astronomy
+Question: What is the name of the largest moon of Neptune? 
+- A) Triton
+ - B) Titan 
+- C) Ganymede
+ - D) Europa 
+Geography
+Question: What is the longest river in South America? 
+- A) Nile River
+ - B) Amazon River
+ - C) Mississippi River 
+- D) Yangtze River 
+General Information
+Question: Who is credited with inventing the World Wide Web?
+ - A) Bill Gates
+ - B) Tim Berners-Lee 
+- C) Steve Jobs
+ - D) Mark Zuckerberg 
+Programming
+Question: Which of the following is an object-oriented programming language?
+ - A) C 
+- B) Python 
+- C) Assembly 
+- D) Pascal 
+Culture
+Question: Which Shakespearean play features the characters Romeo and Juliet?
+ - A) Macbeth 
+- B) Hamlet 
+- C) Romeo and Juliet
+ - D) Othello
+Education
+Question: What is the name of the philosophy that emphasizes learning through experience and interaction?
+ - A) Constructivism
+ - B) Behaviorism 
+- C) Realism 
+- D) Idealism
+Computer
+Question: What is the purpose of a compiler in programming? 
+- A) To execute code 
+- B) To convert high-level code into machine code
+ - C) To debug code
+ - D) To store data
+Astronomy
+Question: What is the name of the phenomenon where the Moon passes between the Earth and the Sun, casting a shadow on the Earth? 
+- A) Lunar Eclipse 
+- B) Solar Eclipse 
+- C) Equinox 
+- D) Solstice 
+Geography
+Question: What is the capital city of Spain? 
+- A) Madrid
+ - B) Barcelona 
+- C) Seville 
+- D) Valencia 
+General Information
+Question: What is the largest organ in the human body?
+ - A) Liver 
+- B) Skin
+ - C) Brain 
+- D) Heart
+Programming
+Question: What is the primary function of the "if" statement in programming? 
+- A) Looping
+ - B) Decision making 
+- C) Variable declaration
+ - D) Error handling
+Culture
+Question: Who is considered the "Father of Rock and Roll"? 
+- A) Elvis Presley 
+- B) Chuck Berry 
+- C) Buddy Holly 
+- D) Little Richard
+Education
+Question: What is the name of the theory that emphasizes the importance of social interaction in cognitive development? 
+- A) Theory of Mind 
+- B) Social Constructivism
+ - C) Zone of Proximal Development
+ - D) Social Learning Theory
+Computer
+Question: Which of the following is a type of network topology?
+ - A) Loop 
+- B) Stack 
+- C) Ring 
+- D) Grid 
+Astronomy
+Question: What is the name of the imaginary line around which the Earth rotates? 
+- A) Equator 
+- B) Tropic of Cancer 
+- C) Tropic of Capricorn 
+- D) Axis 
+Geography
+Question: Which continent is the largest by land area? 
+- A) Africa
+ - B) Asia 
+- C) Europe 
+- D) North America 
+

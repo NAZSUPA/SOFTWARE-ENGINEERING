@@ -1,0 +1,43 @@
+Art
+Question: Who painted the Mona Lisa?
+A) Vincent Van Gogh
+B) Pablo Picasso
+C) Leonardo da Vinci
+D) Claude Monet
+Art
+Question: Who painted "Starry Night"?
+A) Vincent Van Gogh
+B) Pablo Picasso
+C) Leonardo da Vinci
+D) Claude Monet
+Art
+Question: Which artistic movement is characterized by its use of distorted figures and vibrant colors?
+A) Cubism
+B) Impressionism
+C) Surrealism
+D) Expressionism
+Art
+Question: Which art movement is characterized by its focus on everyday subject matter and use of ordinary materials?
+A) Pop Art
+B) Dadaism
+C) Realism
+D) Minimalism
+Art
+Question: Which artist is known for his paintings of melting clocks in works like "The Persistence of Memory"?
+A) Pablo Picasso
+B) Salvador Dalí
+C) Vincent van Gogh
+D) Claude Monet
+Art
+Question: Who painted the famous artwork "The Starry Night"?
+A) Vincent van Gogh
+B) Pablo Picasso
+C) Leonardo da Vinci
+D) Michelangelo
+Art
+Question: Who sculpted the statue of David?
+A) Leonardo da Vinci
+B) Michelangelo
+C) Donatello
+D) Raphael
+

@@ -1,0 +1,66 @@
+Computer
+Question: What does CPU stand for in the context of computing?
+A) Central Process Unit
+B) Central Processing Unit
+C) Computer Personal Unit
+D) Central Processor Unit
+Computer
+Question: What is the main purpose of an operating system?
+A) Run software applications
+B) Manage hardware resources
+C) Connect to the internet
+D) Create documents
+Computer
+Question: What is a firewall used for in computer networks?
+A) Preventing unauthorized access
+B) Storing files
+C) Speeding up internet connection
+D) Sending emails
+Computer
+Question: Which of the following is not a type of computer memory?
+A) RAM
+B) ROM
+C) CPU
+D) Cache
+Computer
+Question: Which of the following is a popular version control system used by developers?
+A) Git
+B) FTP
+C) SQL
+D) SVN
+Computer
+Question: Which programming language is commonly used for web development alongside HTML and CSS?
+A) Java
+B) C++
+C) JavaScript
+D) PHP
+Computer
+Question: What is the purpose of an HTML anchor tag <a>?
+A) To create a hyperlink
+B) To insert an image
+C) To define a paragraph
+D) To format text
+Computer
+Question: Which of the following is not a web browser?
+A) Chrome
+B) Firefox
+C) Adobe Photoshop
+D) Safari
+Computer
+Question: Which of the following is not a programming language? 
+- A) Java
+ - B) HTML
+ - C) CSS
+ - D) SQL
+Computer
+Question: What is the purpose of a compiler in programming? 
+- A) To execute code 
+- B) To convert high-level code into machine code
+ - C) To debug code
+ - D) To store data 
+Computer
+Question: Which of the following is a type of network topology?
+ - A) Loop 
+- B) Stack 
+- C) Ring 
+- D) Grid 

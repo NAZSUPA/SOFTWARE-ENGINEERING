@@ -1,0 +1,54 @@
+Programming
+Question: In Python, which of the following data types is immutable?
+A) List
+B) Dictionary
+C) Tuple
+D) Set
+Programming
+Question: Which of the following is not a programming language?
+A) Java
+B) HTML
+C) Python
+D) Photoshop
+Programming
+Question: What does the acronym HTML stand for?
+A) Hyper Text Markup Language
+B) High Tech Markup Language
+C) Hyperlinks and Text Markup Language
+D) Home Tool Markup Language
+Programming
+Question: What does IDE stand for in the context of software development?
+A) Integrated Development Environment
+B) Intelligent Design Environment
+C) Interactive Development Environment
+D) Interface Design Environment
+Programming
+Question: Which programming language is primarily used for developing Android applications?
+A) Java
+B) C#
+C) Python
+D) Swift
+Programming
+Question: Which data structure follows the Last-In-First-Out (LIFO) principle?
+A) Queue
+B) Stack
+C) Linked List
+D) Tree
+Programming
+Question: Which of the following is not a programming paradigm?
+A) Functional Programming
+B) Imperative Programming
+C) Declarative Programming
+D) Pseudocode Programming
+Programming
+Question: Which of the following is an object-oriented programming language?
+ - A) C 
+- B) Python 
+- C) Assembly 
+- D) Pascal 
+Programming
+Question: What is the primary function of the "if" statement in programming? 
+- A) Looping
+ - B) Decision making 
+- C) Variable declaration
+ - D) Error handling

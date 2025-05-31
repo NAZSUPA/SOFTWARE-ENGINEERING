@@ -1,0 +1,67 @@
+Geography
+Question: Which river is the longest in the world?
+A) Amazon River
+B) Yangtze River
+C) Nile River
+D) Mississippi River
+Geography
+Question: Which country is the largest by land area?
+A) China
+B) Russia
+C) United States
+D) Canada
+Geography
+Question: Which mountain range is the longest in the world?
+A) Himalayas
+B) Alps
+C) Andes
+D) Rockies
+Geography
+Question: Which of the following countries is not located in South America?
+A) Brazil
+B) Peru
+C) Nigeria
+D) Argentina
+Geography
+Question: Which of the following is not one of the Great Lakes of North America?
+A) Lake Superior
+B) Lake Michigan
+C) Lake Victoria
+D) Lake Erie
+Geography
+Question: What is the capital city of Canada?
+A) Vancouver
+B) Toronto
+C) Ottawa
+D) Montreal
+Geography
+Question: What is the largest desert in the world?
+A) Sahara Desert
+B) Gobi Desert
+C) Antarctic Desert
+D) Arabian Desert
+Geography
+Question: What is the capital city of Australia?
+A) Sydney
+B) Melbourne
+C) Canberra
+D) Brisbane
+Geography
+Question: What is the longest river in South America? 
+- A) Nile River
+ - B) Amazon River
+ - C) Mississippi River 
+- D) Yangtze River
+Geography
+Question: What is the capital city of Spain? 
+- A) Madrid
+ - B) Barcelona 
+- C) Seville 
+- D) Valencia 
+Geography
+Question: Which continent is the largest by land area? 
+- A) Africa
+ - B) Asia 
+- C) Europe 
+- D) North America 
+
