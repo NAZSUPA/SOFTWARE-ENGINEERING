@@ -1,0 +1,405 @@
+body {
+    background-color: rgb(255, 255, 255);
+    overflow-x: hidden;
+}
+section #save_life {
+    display: flex;
+    justify-content: center;
+}
+
+section #save_life img {
+    position: absolute;
+    width: 28%;
+    left: 64%;
+}
+
+section #save_life p {
+    position: absolute;
+    top: 50%;
+    font-size: 40px;
+    left: 4%;
+    color: whitesmoke;
+    background-color: green;
+    padding: 1%;
+    border-radius: 40px;
+}
+
+footer {
+    margin-top: 90%;
+    border: 2px solid rgb(197, 50, 50);
+    border-radius: 38px;
+}
+
+footer p {
+    text-align: center;
+    font-size: 25px;
+    color: rgb(197, 50, 50);
+    font-weight: bold;
+}
+
+#services {
+    position: relative;
+    margin-top: 30%;
+}
+
+h3 {
+    position: relative;
+    margin-top: 10%;
+    text-align: center;
+    font-weight: Bold;
+    font-size: 100px;
+    color: whitesmoke;
+    background-color: blueviolet;
+    width: 60%;
+    margin-left: 20%;
+    border-radius: 60px;
+}
+
+section #services {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    margin-top: 8%;
+}
+
+section #services img {
+    position: absolute;
+    width: 28%;
+    margin-left: 36%;
+}
+
+section #services p {
+    position: absolute;
+    margin-top: 10%;
+    font-size: 40px;
+    left: 4%;
+    color: whitesmoke;
+    background-color: green;
+    padding: 1%;
+    border-radius: 40px;
+    margin-left: 2%;
+    font-size: 100px;
+}
+
+#red_line {
+    position: relative;
+    border-color: red;
+    margin-top: 30%;
+}
+
+section #services #blood_donation_text {
+    position: absolute;
+    margin-left: 1%;
+    margin-top: 40%;
+    font-size: 100px;
+    background-color: rgb(210, 13, 13);
+    color: whitesmoke;
+}
+
+section #services #blood_donation_icon {
+    position: absolute;
+    width: 28%;
+    margin-left: 45%;
+    margin-top: 32%;
+}
+
+section #services #record_text {
+    position: absolute;
+    margin-top: 70%;
+    font-size: 70px;
+    background-color: rgb(20, 27, 225);
+    color: whitesmoke;
+}
+
+section #services #record_icon {
+    position: absolute;
+    width: 28%;
+    margin-left: 45%;
+    margin-top: 60%;
+}
+
+@media (max-width: 480px) {
+    section #save_life p {
+        width: 286px;
+        height: 21px;
+        font-size: 15px;
+        top: 23%;
+
+    }
+
+    h3 {
+        font-size: 61px;
+        width: 287px;
+        height: 146px;
+    }
+
+    section #services #blood_donation_text {
+        font-size: 40px;
+    }
+
+    section #services #blood_donation_icon {
+        margin-left: 56%;
+    }
+
+    section #services p {
+        font-size: 38px;
+        margin-left: -2%;
+    }
+
+    section #services img {
+        width: 120px;
+        margin-left: 50%;
+        margin-top: 1%;
+    }
+
+    section #services #record_text {
+        font-size: 26px;
+    }
+
+    section #services #record_icon {
+        margin-left: 56%;
+    }
+
+    body {
+        overflow-x: hidden;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 523px) {
+     section #save_life p {
+        width: 286px;
+        height: 21px;
+        font-size: 15px;
+        top: 23%;
+
+    }
+
+    h3 {
+        font-size: 61px;
+        width: 287px;
+        height: 146px;
+    }
+
+    section #services #blood_donation_text {
+        font-size: 40px;
+    }
+
+    section #services #blood_donation_icon {
+        margin-left: 56%;
+    }
+
+    section #services p {
+        font-size: 38px;
+        margin-left: -2%;
+    }
+
+    section #services img {
+        width: 120px;
+        margin-left: 50%;
+        margin-top: 1%;
+    }
+
+    section #services #record_text {
+        font-size: 26px;
+    }
+
+    section #services #record_icon {
+        margin-left: 56%;
+    }
+
+    body {
+        overflow-x: hidden;
+    }
+}
+
+@media (min-width: 517px) and (max-width: 635px) {
+    section #save_life p {
+        width: 286px;
+        height: 21px;
+        font-size: 15px;
+        top: 30%;
+
+    }
+
+    h3 {
+        font-size: 61px;
+        width: 287px;
+        height: 146px;
+        margin-left: 24%;
+    }
+
+    section #services #blood_donation_text {
+        font-size: 40px;
+    }
+
+    section #services #blood_donation_icon {
+        margin-left: 56%;
+    }
+
+    section #services p {
+        font-size: 38px;
+        margin-left: -2%;
+    }
+
+    section #services img {
+        width: 120px;
+        margin-left: 50%;
+        margin-top: 1%;
+    }
+
+    section #services #record_text {
+        font-size: 26px;
+    }
+
+    section #services #record_icon {
+        margin-left: 56%;
+    }
+
+    body {
+        overflow-x: hidden;
+    }
+}
+
+@media (min-width: 636px) and (max-width: 780px) {
+    section #save_life p {
+        width: 375px;
+        height: 21px;
+        font-size: 20px;
+        top: 41%;
+
+    }
+
+    h3 {
+        font-size: 61px;
+        width: 287px;
+        height: 146px;
+        margin-left: 24%;
+    }
+
+    section #services #blood_donation_text {
+        font-size: 40px;
+    }
+
+    section #services #blood_donation_icon {
+        margin-left: 56%;
+    }
+
+    section #services p {
+        font-size: 38px;
+        margin-left: -2%;
+    }
+
+    section #services img {
+        width: 174px;
+        margin-left: 50%;
+        margin-top: 1%;
+    }
+
+    section #services #record_text {
+        font-size: 26px;
+    }
+
+    section #services #record_icon {
+        margin-left: 56%;
+    }
+
+    body {
+        overflow-x: hidden;
+    }
+}
+
+@media (min-width: 781px) and (max-width: 954px) {
+    section #save_life p {
+        width: 471px;
+        height: 39px;
+        font-size: 25px;
+        top: 46%;
+
+    }
+
+    h3 {
+        font-size: 89px;
+        width: 328px;
+        height: 210px;
+        margin-left: 28%;
+    }
+
+    section #services #blood_donation_text {
+        font-size: 67px;
+    }
+
+    section #services #blood_donation_icon {
+        margin-left: 56%;
+    }
+
+    section #services p {
+        font-size: 66px;
+        margin-left: -2%;
+    }
+
+    section #services img {
+        width: 174px;
+        margin-left: 50%;
+        margin-top: 1%;
+    }
+
+    section #services #record_text {
+        font-size: 48px;
+    }
+
+    section #services #record_icon {
+        margin-left: 56%;
+    }
+
+    body {
+        overflow-x: hidden;
+    }
+}
+
+@media (min-width: 955px) and (max-width: 1200px) {
+    section #save_life p {
+        width: 524px;
+        height: 33px;
+        font-size: 28px;
+        top: 61%;
+
+    }
+
+    h3 {
+        font-size: 89px;
+        width: 328px;
+        height: 210px;
+        margin-left: 28%;
+    }
+
+    section #services #blood_donation_text {
+        font-size: 67px;
+    }
+
+    section #services #blood_donation_icon {
+        margin-left: 72%;
+    }
+
+    section #services p {
+        font-size: 66px;
+        margin-left: -2%;
+    }
+
+    section #services img {
+        width: 238px;
+        margin-left: 64%;
+        margin-top: 1%;
+    }
+
+    section #services #record_text {
+        font-size: 48px;
+    }
+
+    section #services #record_icon {
+        margin-left: 69%;
+    }
+
+    body {
+        overflow-x: hidden;
+    }
+}

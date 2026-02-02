@@ -1,0 +1,355 @@
+body {
+    background-color: rgb(255, 255, 255);
+    overflow-x: hidden;
+}
+footer {
+    margin-top: 3%;
+    border: 2px solid rgb(197, 50, 50);
+    border-radius: 38px;
+}
+
+footer p {
+    text-align: center;
+    font-size: 25px;
+    color: rgb(197, 50, 50);
+    font-weight: bold;
+}
+
+#wibd,
+#wbd,
+#wid,
+#risk,
+#er,
+#fam,
+#wyce,
+#atp{
+    position: absolute;
+    margin-top: 10%;
+    text-align: center;
+    font-size: 90px;
+    color: rgb(197, 50, 50);
+}
+#wyce , #atp{
+    color: rgb(97, 12, 158);
+}
+#wid{
+    color: rgb(2, 137, 137);
+}
+#er{
+    color:crimson;
+}
+#fam{
+    color: rgb(27, 220, 20);
+}
+#wibd_div,
+#wbd_div,
+#wid_div,
+#risk_div,
+#er_div,
+#fam_div,
+#wyce_div,
+#atp_div{
+    height: 170px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#wyce_div{
+    height: 260px;
+}
+
+#blood_drop,
+#risk_sign {
+    position: relative;
+    margin-top: 7%;
+    margin-left: 75%;
+    width: 70px;
+    height: 60px;
+}
+
+#risk_sign {
+    margin-left: 28%;
+}
+
+#wibd_t,
+#wbd_t,
+#wid_t,
+#risk_t,
+#er_t,
+#fam_t , #wyce_t,
+#atp_t{
+    position: relative;
+    margin-left: 20%;
+    text-align: center;
+    border: 4px rgb(197, 50, 50) solid;
+    border-radius: 25px;
+    font-size: 30px;
+    width: 60%;
+    height: 30%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 10px;
+    background-color: rgb(255, 203, 195);
+    text-align: justify;
+    padding: 25px;
+}
+
+#wbd_t {
+    border-color: rgb(197, 50, 50);
+    background-color: rgb(255, 203, 195);
+    text-align: center;
+}
+#wid_t {
+    border-color: rgb(2, 137, 137);
+    border-width: 5px;
+    background-color: rgb(195, 221, 248);
+    text-align: justify;
+}
+
+#risk_t {
+    border-color: rgb(197, 50, 50);
+    border-width: 7px;
+    background-color: rgb(255, 203, 195);
+    text-align: justify;
+}
+
+#er_t,
+#fam_t {
+    text-align: justify;
+    width: 80%;
+    margin-left: 8%;
+    background-color: floralwhite;
+    border-color: crimson;
+    border-width: 7px;
+    padding: 25px;
+}
+#fam_t {
+    background-color: rgb(206, 255, 218);
+    border-color: rgb(27, 220, 20);
+}
+#wyce_t , #atp_t{
+    border-color: rgb(97, 12, 158);
+    background-color: rgb(236, 210, 255);
+}
+
+@media (max-width: 480px) {
+    #er{
+        font-size: 80px;
+    }
+    #fam_t{
+        margin-left: 4%;
+    }
+    #er_t{
+        margin-left: 4%;
+    }
+    #risk_t{
+        margin-left: 14%;
+    }
+    #wid_t{
+        margin-left: 15%;
+    }
+    #wbd_t{
+        margin-left: 14%;
+    }
+    #wibd_t{
+        margin-left: 14%;
+    }
+    #wyce_t,#atp_t{
+        margin-left: 13%;
+    }
+    #blood_icon_left {
+        width: 50px;
+        height: 50px;
+    }
+    body {
+        overflow-x: hidden;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 523px) {
+ #er{
+        font-size: 80px;
+    }
+     #fam_t{
+        margin-left: 4%;
+    }
+    #er_t{
+        margin-left: 4%;
+    }
+    #risk_t{
+        margin-left: 14%;
+    }
+    #wid_t{
+        margin-left: 15%;
+    }
+    #wbd_t{
+        margin-left: 14%;
+    }
+    #wibd_t{
+        margin-left: 14%;
+    }
+    #wyce_t,#atp_t{
+        margin-left: 13%;
+    }
+    body {
+        overflow-x: hidden;
+    }
+      #wibd{
+        font-size: 70px;
+    }
+    #wbd{
+        font-size: 50px;
+    }
+}
+
+@media (min-width: 523px) and (max-width: 636px) {
+    #risk_sign{
+        top: -18px;
+    }
+     #blood_drop{
+        display: none;
+    }
+#er{
+        font-size: 80px;
+    }
+     #fam_t{
+        margin-left: 4%;
+    }
+    #er_t{
+        margin-left: 4%;
+    }
+    #risk_t{
+        margin-left: 14%;
+    }
+    #wid_t{
+        margin-left: 15%;
+    }
+    #wbd_t{
+        margin-left: 14%;
+    }
+    #wibd_t{
+        margin-left: 14%;
+    }
+    #wyce_t,#atp_t{
+        margin-left: 13%;
+    }
+    body {
+        overflow-x: hidden;
+        background-color: aqua;
+    }
+    #wibd{
+        font-size: 70px;
+    }
+}
+
+@media (min-width: 636px) and (max-width: 780px) {
+
+    #blood_drop{
+        display: none;
+    }
+     #risk_sign{
+        top: -18px;
+    }
+#er{
+        font-size: 80px;
+    }
+     #fam_t{
+        margin-left: 4%;
+    }
+    #er_t{
+        margin-left: 4%;
+    }
+    #risk_t{
+        margin-left: 15%;
+    }
+    #wid_t{
+        margin-left: 15%;
+    }
+    #wbd_t{
+        margin-left: 14%;
+    }
+    #wibd_t{
+        margin-left: 14%;
+    }
+    #wyce_t,#atp_t{
+        margin-left: 13%;
+    }
+
+    body {
+        overflow-x: hidden;
+    }
+}
+
+@media (min-width: 781px) and (max-width: 954px) {
+  
+     #blood_drop{
+        display: none;
+    }
+         #risk_sign{
+        top: -18px;
+    }
+#er{
+        font-size: 80px;
+    }
+     #fam_t{
+        margin-left: 4%;
+    }
+    #er_t{
+        margin-left: 4%;
+    }
+    #risk_t{
+        margin-left: 15%;
+    }
+    #wid_t{
+        margin-left: 15%;
+    }
+    #wbd_t{
+        margin-left: 14%;
+    }
+    #wibd_t{
+        margin-left: 14%;
+    }
+    #wyce_t,#atp_t{
+        margin-left: 13%;
+    }
+
+    body {
+        overflow-x: hidden;
+    }
+}
+
+@media (min-width: 955px) and (max-width: 1200px) {
+
+       #blood_drop{
+        display: none;
+    }
+         #risk_sign{
+        top: -11px;
+    }
+#er{
+        font-size: 80px;
+    }
+     #fam_t{
+        margin-left: 6%;
+    }
+    #er_t{
+        margin-left: 6%;
+    }
+    #risk_t{
+        margin-left: 17%;
+    }
+    #wid_t{
+        margin-left: 17%;
+    }
+    #wbd_t{
+        margin-left: 16%;
+    }
+    #wibd_t{
+        margin-left: 16%;
+    }
+    #wyce_t,#atp_t{
+        margin-left: 15%;
+    }
+    body {
+        overflow-x: hidden;
+    }
+}

@@ -1,0 +1,400 @@
+body{
+    background-color: rgb(255, 255, 255);
+    overflow-x: hidden;
+}
+footer{
+    margin-top: 47%;
+    border: 2px solid rgb(197, 50, 50);
+    border-radius: 38px;
+}
+footer p{
+    text-align: center;
+    font-size: 25px;
+    color:  rgb(197, 50, 50);
+    font-weight: bold;
+}
+#dashboard h1{
+    color: #093965;
+    position: absolute;
+    margin-left: 40%;
+    border: 3px solid rgb(78, 137, 192);
+    padding: 1%;
+    box-shadow: 7px -1px 6px 6px rgb(78, 137, 192);
+}#board{
+    border-radius: 30px;
+    position: absolute;
+    margin-left: 10%;
+    margin-top: 10%;
+    width: 80%;
+    height: 55%;
+    border: 3px solid rgb(78, 137, 192);
+}
+table{
+    border-collapse: separate;
+    border-spacing: 25px 18px;
+}
+tr,td{
+    font-size: 30px;
+}
+td{
+    color: #04284a;
+    border-radius: 10px;
+    padding: 1%;
+    font-weight: bold;
+}
+.col3{
+    position: absolute;
+    margin-left: 5%;
+}
+.col4{
+     position: absolute;
+    margin-left: 42%; 
+    font-size: 23px;
+    font-weight: bold;
+    margin-top: 7px;
+}
+.col2{
+      font-size: 23px;
+    font-weight: bold;
+    width: 40%;
+}
+.lables{
+    white-space: nowrap;
+}
+.ra{
+    color: #093965;
+    border: 3px solid rgb(78, 137, 192);
+    padding: 1%;
+    box-shadow: 7px -1px 6px 6px rgb(78, 137, 192);
+    position: absolute;
+    margin-left: 38%;
+    margin-top: 38%;
+    width: 20%;
+    height: 10%;
+    font-size: 25px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+@media (max-width: 480px) {
+    button{
+        height: 40%;
+    }
+body{
+    overflow-x: hidden;
+}
+footer{
+    margin-top: 90%;
+}
+#dashboard h1{
+    color: #093965;
+    position: absolute;
+    margin-left: 20%;
+    border: 3px solid rgb(78, 137, 192);
+    padding: 1%;
+    box-shadow: 7px -1px 6px 6px rgb(78, 137, 192);
+}#board{
+    border-radius: 30px;
+    position: absolute;
+    margin-left: 5%;
+    margin-top: 20%;
+    width: 82%;
+    height: 55%;
+    border: 3px solid rgb(78, 137, 192);
+}
+table{
+    border-collapse: separate;
+    border-spacing: 5px 18px;
+}
+tr,td{
+    font-size: 10px;
+}
+td{
+    color: #04284a;
+    border-radius: 10px;
+    padding: 1%;
+    font-weight: bold;
+}
+.col3{
+    position: absolute;
+    margin-left: 1%;
+}
+.col4{
+     position: absolute;
+    margin-left: 40%; 
+}
+
+}
+@media (min-width: 481px) and (max-width: 523px) {
+       button{
+        height: 40%;
+    }
+   body {
+    overflow-x: hidden;
+    }
+    #dashboard h1{
+    color: #093965;
+    position: absolute;
+    margin-left: 20%;
+    border: 3px solid rgb(78, 137, 192);
+    padding: 1%;
+    box-shadow: 7px -1px 6px 6px rgb(78, 137, 192);
+}#board{
+    border-radius: 30px;
+    position: absolute;
+    margin-left: 5%;
+    margin-top: 20%;
+    width: 90%;
+    height: 35%;
+    border: 3px solid rgb(78, 137, 192);
+}
+table{
+    border-collapse: separate;
+    border-spacing: 5px 18px;
+}
+tr,td{
+    font-size: 10px;
+}
+td{
+    color: #04284a;
+    border-radius: 10px;
+    padding: 1%;
+    font-weight: bold;
+}
+.col3{
+    position: absolute;
+    margin-left: 1%;
+}
+.col4{
+     position: absolute;
+    margin-left: 36%; 
+    font-size: 9px;
+    margin-top: -1%;
+}
+.col2{
+      font-size: 10px;
+    font-weight: bold;
+    width: 40%;
+}
+footer{
+    margin-top: 60%;
+}
+
+}
+@media (min-width: 517px) and (max-width: 635px) {
+       button{
+        height: 40%;
+    }
+  body {
+    overflow-x: hidden;
+    }
+    
+    #dashboard h1{
+    color: #093965;
+    position: absolute;
+    margin-left: 25%;
+    border: 3px solid rgb(78, 137, 192);
+    padding: 1%;
+    box-shadow: 7px -1px 6px 6px rgb(78, 137, 192);
+}#board{
+    border-radius: 30px;
+    position: absolute;
+    margin-left: 5%;
+    margin-top: 20%;
+    width: 82%;
+    height: 35%;
+    border: 3px solid rgb(78, 137, 192);
+}
+table{
+    border-collapse: separate;
+    border-spacing: 5px 18px;
+}
+tr,td{
+    font-size: 10px;
+}
+td{
+    color: #04284a;
+    border-radius: 10px;
+    padding: 1%;
+    font-weight: bold;
+}
+.col3{
+    position: absolute;
+    margin-left: 1%;
+}
+.col4{
+     position: absolute;
+    margin-left: 36%; 
+    font-size: 9px;
+    margin-top: -1%;
+}
+.col2{
+      font-size: 10px;
+    font-weight: bold;
+    width: 40%;
+}
+footer{
+    margin-top: 60%;
+}
+}
+@media (min-width: 636px) and (max-width: 780px) {
+       button{
+        height: 40%;
+    }
+ body {
+    overflow-x: hidden;
+    }
+        #dashboard h1{
+    color: #093965;
+    position: absolute;
+    margin-left: 30%;
+    border: 3px solid rgb(78, 137, 192);
+    padding: 1%;
+    box-shadow: 7px -1px 6px 6px rgb(78, 137, 192);
+}#board{
+    border-radius: 30px;
+    position: absolute;
+    margin-left: 5%;
+    margin-top: 20%;
+    width: 82%;
+    height: 40%;
+    border: 3px solid rgb(78, 137, 192);
+}
+table{
+    border-collapse: separate;
+    border-spacing: 5px 18px;
+}
+tr,td{
+    font-size: 13px;
+}
+td{
+    color: #04284a;
+    border-radius: 10px;
+    padding: 1%;
+    font-weight: bold;
+}
+.col3{
+    position: absolute;
+    margin-left: 1%;
+}
+.col4{
+     position: absolute;
+    margin-left: 39%; 
+    font-size: 12px;
+    margin-top: 1%;
+}
+.col2{
+      font-size: 12px;
+    font-weight: bold;
+    width: 40%;
+}
+footer{
+    margin-top: 60%;
+}
+}
+@media (min-width: 781px) and (max-width: 954px) {
+   body {
+    overflow-x: hidden;
+    }
+            #dashboard h1{
+    color: #093965;
+    position: absolute;
+    margin-left: 33%;
+    border: 3px solid rgb(78, 137, 192);
+    padding: 1%;
+    box-shadow: 7px -1px 6px 6px rgb(78, 137, 192);
+}#board{
+    border-radius: 30px;
+    position: absolute;
+    margin-left: 8%;
+    margin-top: 15%;
+    width: 82%;
+    height: 40%;
+    border: 3px solid rgb(78, 137, 192);
+}
+table{
+    border-collapse: separate;
+    border-spacing: 5px 18px;
+}
+tr,td{
+    font-size: 13px;
+}
+td{
+    color: #04284a;
+    border-radius: 10px;
+    padding: 1%;
+    font-weight: bold;
+}
+.col3{
+    position: absolute;
+    margin-left: 1%;
+}
+.col4{
+     position: absolute;
+    margin-left: 39%; 
+    font-size: 12px;
+    margin-top: 1%;
+}
+.col2{
+      font-size: 12px;
+    font-weight: bold;
+    width: 40%;
+}
+footer{
+    margin-top: 45%;
+}
+}
+
+@media (min-width: 955px) and (max-width: 1200px) {
+   body {
+    overflow-x: hidden;
+    }
+     #dashboard h1{
+    color: #093965;
+    position: absolute;
+    margin-left: 35%;
+    border: 3px solid rgb(78, 137, 192);
+    padding: 1%;
+    box-shadow: 7px -1px 6px 6px rgb(78, 137, 192);
+}#board{
+    border-radius: 30px;
+    position: absolute;
+    margin-left: 15%;
+    margin-top: 15%;
+    width: 70%;
+    height: 50%;
+    border: 3px solid rgb(78, 137, 192);
+}
+table{
+    border-collapse: separate;
+    border-spacing: 5px 18px;
+}
+tr,td{
+    font-size: 13px;
+}
+td{
+    color: #04284a;
+    border-radius: 10px;
+    padding: 1%;
+    font-weight: bold;
+}
+.col3{
+    position: absolute;
+    margin-left: 1%;
+}
+.col4{
+     position: absolute;
+    margin-left: 35%; 
+    font-size: 15px;
+    margin-top: 0%;
+}
+.col2{
+      font-size: 15px;
+    font-weight: bold;
+    width: 45%;
+}
+footer{
+    margin-top: 45%;
+}
+}
+
