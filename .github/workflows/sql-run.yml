@@ -1,0 +1,9 @@
+name: Database Check
+on: [push]
+jobs:
+  check-sql:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run a message
+        run: echo "The workflow is back online!"
