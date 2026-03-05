@@ -1,0 +1,15 @@
+name: "CodeQL"
+on: [push, pull_request]
+jobs:
+  analyze:
+    name: Analyze
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Initialize CodeQL
+        uses: github/codeql-action/init@v3
+        with:
+          languages: 'sql'
+      - name: Perform Analysis
+        uses: github/codeql-action/analyze@v3
